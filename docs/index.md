@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### About Experimax Canal Walk
 
-You can use the [editor on GitHub](https://github.com/c0d3mac/0ne/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Conveniently located near Entrance 6 in Canal Walk Shopping Centre (opposite Computer Mania), Experimax Canal Walk is your local experts in Apple sales, repairs, upgrades & and Apple accessories.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can also trade-in or sell us your unused Apple devices for fair market related prices.
+We specialise in iPhones, iPads, MacBooks, iMacs and all other Apple products, from devices deemed "vintage" by Apple to the latest products at affordable prices. Visit us in store or shop our range of products online!
 
-### Markdown
+## Experimax - Premium Pre-Owned 
+[Shop 625, Upper Level, Canal Walk Shopping Centre, Century Blvd, Century City, Cape Town, Western Cape, 7441]
+(https://www.google.co.za/maps/search/Experimax Canal Walk 
+[021 551 0460](tel:+27215510460)
+Mobile: WhatsApp: [0633802164]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Follow **Us**
+[@experimaxcanalwalk](https://www.facebook.com/experimaxcanalwalk/)
+[@experimaxcanalwalk](https://www.instagram.com/experimaxcanalwalk/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c0d3mac/0ne/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Operating **Hours**
+Mondays 09h00 to 19h00  
+Tuesdays 09h00 to 19h00  
+Wednesdays 09h00 to 19h00  
+Thursdays 09h00 to 19h00  
+Fridays 09h00 to 19h00  
+Saturdays 09h00 to 19h00  
+Sundays 09h00 to 19h00  
+Public Holidays 09h00 to 19h00  
+[Experimax - Premium Pre-Owned Apple](https://experimax.co.za/stores/canal-walk/)
